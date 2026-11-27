@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E5EFF</color>
+    <color name="primaryDark">#1646BF</color>
+    <color name="accent">#0B8A5F</color>
+    <color name="start">#0B8A5F</color>
+    <color name="stop">#C62828</color>
+    <color name="logBg">#111418</color>
+    <color name="logFg">#C9D1D9</color>
+</resources>
